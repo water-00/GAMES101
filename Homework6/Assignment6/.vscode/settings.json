@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.y": "yacc",
+        "concepts": "cpp",
+        "iterator": "cpp"
+    }
+}
