@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.y": "yacc",
+        "cmath": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
+}
